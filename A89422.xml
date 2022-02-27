@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Further intelligence from Ireland, declared in a letter sent from Captaine Muschampe, Captaine of the castle of Corke, to an especiall friend of his in this city of London: with some other newes from other parts of the said kingdome.</title>
+            <author>Muschamp, Agmondisham.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89422</idno>
+            <idno type="STC">Wing M3138</idno>
+            <idno type="STC">Thomason E140_24</idno>
+            <idno type="STC">ESTC R16285</idno>
+            <idno type="EEBO-CITATION">99860005</idno>
+            <idno type="PROQUEST">99860005</idno>
+            <idno type="VID">112110</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89422)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112110)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E140[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Further intelligence from Ireland, declared in a letter sent from Captaine Muschampe, Captaine of the castle of Corke, to an especiall friend of his in this city of London: with some other newes from other parts of the said kingdome.</title>
+                  <author>Muschamp, Agmondisham.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Oulton, &amp; G. Dexter, for Henry Overton, in Popes-Head-Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page vignette: woodcutters and centaur.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112110:1" rendition="simple:additions"/>
+            <p>FVRTHER INTELLIGENCE FROM IRELAND,</p>
+            <p>Declared in a Letter Sent from Captaine <hi>Muſchampe,</hi> Captaine of the Caſtle of <hi>Corke,</hi> to an eſpeciall Friend of his in this City of <hi>London:</hi> With ſome other Newes from other parts of the ſaid Kingdome.</p>
+            <figure/>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>R. Oulion,</hi> &amp; <hi>G. Dexter,</hi> For <hi>Henry Overion,</hi> In <hi>Popes-Head-Alley.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112110:2"/>
+            <pb n="1" facs="tcp:112110:2"/>
+            <head>CERTAINE INTELLIGENCE FROM IRELAND.</head>
+            <opener>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Having not Intelligence of this Bearers going for <hi>England,</hi> untill this very in<g ref="char:EOLhyphen"/>ſtant, doe hope that you will excuſe my Brevity, to give you an account of the Paſſages and occurrences of theſe parts, anſwerable to that ſhort tract of time which I have allotted to expatiate my ſelfe in. It is like to be a moſt miſcrable time with us here, if that we ſhould not be ſpeedily relieved with more force out of <hi>England;</hi> My Lord of <hi>Muſkrey</hi> exſpecteth to be King of <hi>Munſter,</hi> and intendeth to beleaguer <hi>Corke,</hi> and this Fort: But we care not a louſe for him nor for all his Forces. All the <hi>Papiſts</hi> in <hi>Jre<g ref="char:EOLhyphen"/>land</hi> are up in Rebellion and have ſworne and arti<g ref="char:EOLhyphen"/>cled to dye in this quarrell; There is not an <hi>Enghliſh</hi>
+               <pb n="2" facs="tcp:112110:3"/>man in all <hi>Ireland,</hi> that hath a <hi>Cow, Sheepe,</hi> or <hi>Chick</hi> left, but what they keepe under the command of a Caſtle, or walled Towne: and by reaſon of words made knowne to me, that ſome of my houſchold did heare ſome of my Tennants ſay, I was willing to withdraw my Eſtace and Goods from my Houſe at <hi>Ballinrea:</hi> for ſome of my Houſehold, asking ſome of them what they would doe now, in reſpect of that rebellion that now <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s in <hi>Ireland,</hi> they, anſwered them, they did intend to joyne themſelves to the ſtrongeſt ſide. After which Information given unto me of ſuch ſpeeches falling from their mouthes, I had taken all that I had from <hi>Ballinrea,</hi> and inten<g ref="char:EOLhyphen"/>ded to quit the Caſtle, but that I was betrayed by my owne Tenants, and loſt my <hi>Wayne</hi> and <hi>Oxen,</hi> and other things, but to no great value: But they are taken by ſuch neighbours of mine as I wiſht might take them, becauſe I hope to have their Lands for it.</p>
+            <p>To morrow I intend to ride out and to carry a Troops of Horſe to <hi>Ballinrea,</hi> where I intend to hang and burne moſt part of my Tenants: and I intend before I returne to have a flirt at. <hi>Carby</hi> of <hi>Balea.</hi>
+            </p>
+            <p>The next weeke my Lord Preſident will plant a Piece of Battery againſt his Caſtle, which Piece I am now making ready to that purpoſe: thus time calling me off, for the preſent I am conſtrained to forbeare any further Recitall of what is here Novall:</p>
+            <closer>
+               <signed>I reſt: Your aſſured <hi>Lordſhips</hi> Friend, <hi>A. M.</hi>
+               </signed>
+               <dateline>from the fort of <hi>Corke,</hi> 
+                  <date>
+                     <hi>March</hi> 11<hi rend="sup">th</hi>. 1641.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="3" facs="tcp:112110:3"/>
+            <head>NEWES FROM ABOUT DVBLIN TREDAM AND KILKENNY</head>
+            <p>
+               <seg rend="decorInit">W</seg>E have 4000. men, and 500 horſe that are now marching up to a place caled <hi>Jal<g ref="char:EOLhyphen"/>low-Hill,</hi> where the Rebels do make us beleeve, that they wil bid us a battell: But we can ſcarſe credit it, that they will be as good as their words, wee rather think they will not abide the ſhocke, when it comes to triall. For they are very much afraid of our great Gunnes. We have ſix ſmall peices of <hi>Ordinance,</hi> and 2. great Peeces: and they doe not love to heare the roaring of the Cannons; our <hi>Cannoneers</hi> playing upon them
+<pb n="4" facs="tcp:112110:4"/>with our great Gunnes is a diſmall ſight to them.</p>
+            <p>There hath arrived here from <hi>Briſtow,</hi> 500. <hi>Men,</hi> and 1000. Men are come over from <hi>Minyard,</hi> and my Lord <hi>Preſident</hi> of <hi>Munſter,</hi> came downe to meet them, and went along with them up to a place called <hi>Killkenny</hi> which was in the hands of the Rebels, and he with his forces ſet upon them and forced them out of it; and the Engliſh and <hi>Proteſtant</hi> forces have ſlaine of the Rebels, nigh 2000. and taken 60. Priſo<g ref="char:EOLhyphen"/>ners of good Ranke and Qualitie.</p>
+            <p>Alſo within 5. Miles of <hi>Tredah,</hi> or thereabout our forces ſet upon the Rebels and ſlew many, took my Lord <hi>Netters-feild,</hi> and Colonell <hi>Reade,</hi> which <hi>Reade</hi> perceiving how hard it was like to goe on their ſide, ſeeing his men drop downe ſo faſt in ear<g ref="char:EOLhyphen"/>neſt, thought it good policy for him to drop down amongſt the ſlaine in jeſt, and thereupon he fell downe and did lie ſtill among the Souldiers that were dead: that ſo they might thinke him to be dead alſo and paſſe him by, and thereby he thought, when he had opportunity, to make uſe of his leggs to ſave himſelfe. But one Souldier among the reſt of our Souldiers, ſeeing ſo goodly a fine Belt upon a Gentlemans ſhoulders lying on the ground, and pro<g ref="char:EOLhyphen"/>bably thinking that the Belt might be his, as well as anothers if he were dead, he did make triall whe<g ref="char:EOLhyphen"/>ther he was dead or no, and gave him a good kicke with his foote on the hinder parts: the Gentleman having his ſenſe of feeling quicke, lying downe ra<g ref="char:EOLhyphen"/>ther upon policy then impotency, got him up, and a<g ref="char:EOLhyphen"/>way he ran with all the ſpeed he could, but all to
+<pb n="5" facs="tcp:112110:4"/>little purpoſe, for he was quickly taken, and is now faſt. Alſo <hi>Philom Oneale</hi> was put to his ſhifts, and neceſſitated to eſcape over into a feild of furſes, and it being knowne that he had made an eſcape that way, they ſet the feild of furſes an fire, and ſo they ferrited him out: but he did ſteal away in the ſmoke, and whether he is yet taken or no, we have no cer<g ref="char:EOLhyphen"/>taine Intelligence.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
